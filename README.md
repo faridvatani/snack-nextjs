@@ -1,4 +1,23 @@
+# Snake Game
+
+<img src="Screenshot.png" alt="snake image" />
+
+This is a simple snake game built with Next.js and TypeScript. The game is built with a 12x12 grid and the snake moves in four directions: up, down, left, and right. The snake grows in size when it eats the food and the game is over when the snake collides with itself. The snake speed increases as the snake grows in size.
+and the score is calculated based on the number of food eaten by the snake.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## Features
+
+- Dynamic Snake Movement
+- Food Consumption
+- Score Tracking
+- Increasing Difficulty
+- Game Over Detection
+- High Score Tracking
+- Grid Wrapping
+- Keyboard Controls
+- Restart Game
 
 ## Getting Started
 
